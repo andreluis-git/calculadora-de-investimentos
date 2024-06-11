@@ -1,0 +1,37 @@
+.titulo-pagina {
+  margin: 20px 0px;
+}
+
+.titulo-simulador {
+  color: var(--bs-primary);
+  font-weight: bold;
+}
+
+.simulador {
+  background-color: var(--bs-gray-100);
+}
+
+label {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.table-size {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.table-size thead tr {
+  position: sticky;
+  top: 0;
+  background-color: var(--bs-gray);
+  color: var(--bs-gray-100);
+}
+
+table {
+  text-align: center;
+}
+
+table td {
+  color: var(--bs-gray-700);
+}

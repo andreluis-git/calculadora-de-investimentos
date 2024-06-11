@@ -1,0 +1,767 @@
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 583,00
+
+Quantidade de unidades: 550
+
+IR: 20% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 04/03/2024
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 448,00
+
+Quantidade de unidades: 400
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 06/11/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 297,50
+
+Quantidade de unidades: 250
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 17/11/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 2.220,00
+
+Quantidade de unidades: 2000
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 26/11/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 165,00
+
+Quantidade de unidades: 150
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 10/12/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 204,00
+
+Quantidade de unidades: 200
+
+IR: 20% de IR
+
+Emissor: PARANA BANCO
+
+Vencimento do título: 02/07/2024
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 11.999,28
+
+Quantidade de unidades: 11764
+
+IR: 22,5% de IR
+
+Emissor: MERCADO LIVRE CFI
+
+Vencimento do título: 13/10/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 1.050,00
+
+Quantidade de unidades: 1000
+
+IR: 22,5% de IR
+
+Emissor: BANCO PAN
+
+Vencimento do título: 16/10/2023
+
+Data dessa solicitação: 31/08/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 1.030,00
+
+Quantidade de unidades: 1000
+
+IR: 22,5% de IR
+
+Emissor: BANCO PAN
+
+Vencimento do título: 02/10/2023
+
+Data dessa solicitação: 01/09/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 91,0% do CDI
+
+Valor da aplicação: R$ 3.000,00
+
+Quantidade de unidades: 3
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 04/12/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 121,00
+
+Quantidade de unidades: 100
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 06/10/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 8.675,10
+
+Quantidade de unidades: 8505
+
+IR: 22,5% de IR
+
+Emissor: MERCADO LIVRE CFI
+
+Vencimento do título: 06/10/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 4.584,41
+
+Quantidade de unidades: 4057
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 09/10/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 65,54
+
+Quantidade de unidades: 58
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 07/10/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 1.299,48
+
+Quantidade de unidades: 1274
+
+IR: 22,5% de IR
+
+Emissor: MERCADO LIVRE CFI
+
+Vencimento do título: 09/10/2023
+
+Data dessa solicitação: 05/09/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 91,0% do CDI
+
+Valor da aplicação: R$ 1.000,00
+
+Quantidade de unidades: 1
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 01/01/2024
+
+Data dessa solicitação: 02/10/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 91,5% do CDI
+
+Valor da aplicação: R$ 3.000,00
+
+Quantidade de unidades: 3
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 02/01/2024
+
+Data dessa solicitação: 03/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 2.439,67
+
+Quantidade de unidades: 2159
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 07/11/2023
+
+Data dessa solicitação: 04/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 2.040,00
+
+Quantidade de unidades: 2000
+
+IR: 22,5% de IR
+
+Emissor: BANCO PAN
+
+Vencimento do título: 06/11/2023
+
+Data dessa solicitação: 06/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 2.040,00
+
+Quantidade de unidades: 2000
+
+IR: 22,5% de IR
+
+Emissor: BANCO PAN
+
+Vencimento do título: 06/11/2023
+
+Data dessa solicitação: 06/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 6.009,84
+
+Quantidade de unidades: 5892
+
+IR: 22,5% de IR
+
+Emissor: BANCO PAN
+
+Vencimento do título: 20/11/2023
+
+Data dessa solicitação: 09/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 113,00
+
+Quantidade de unidades: 100
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 01/12/2023
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 56,50
+
+Quantidade de unidades: 50
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 21/11/2023
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 56,50
+
+Quantidade de unidades: 50
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 27/11/2023
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 1.750,00
+
+Quantidade de unidades: 1400
+
+IR: 22,5% de IR
+
+Emissor: BANCO RENDIMENTO
+
+Vencimento do título: 26/02/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 160,50
+
+Quantidade de unidades: 150
+
+IR: 22,5% de IR
+
+Emissor: BANCO BMG
+
+Vencimento do título: 02/04/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 106,00
+
+Quantidade de unidades: 100
+
+IR: 20% de IR
+
+Emissor: PARANA BANCO
+
+Vencimento do título: 17/05/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 105,00
+
+Quantidade de unidades: 100
+
+IR: 20% de IR
+
+Emissor: PARANA BANCO
+
+Vencimento do título: 20/05/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 105,00
+
+Quantidade de unidades: 100
+
+IR: 20% de IR
+
+Emissor: PARANA BANCO
+
+Vencimento do título: 27/05/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 91,0% do CDI
+
+Valor da aplicação: R$ 13.000,00
+
+Quantidade de unidades: 13
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 17/01/2024
+
+Data dessa solicitação: 19/10/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 92,0% do CDI
+
+Valor da aplicação: R$ 9.000,00
+
+Quantidade de unidades: 9
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 04/02/2024
+
+Data dessa solicitação: 06/11/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 92,5% do CDI
+
+Valor da aplicação: R$ 2.000,00
+
+Quantidade de unidades: 2
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 07/02/2024
+
+Data dessa solicitação: 09/11/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 92,5% do CDI
+
+Valor da aplicação: R$ 4.000,00
+
+Quantidade de unidades: 4
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 07/02/2024
+
+Data dessa solicitação: 09/11/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 92,5% do CDI
+
+Valor da aplicação: R$ 2.000,00
+
+Quantidade de unidades: 2
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 07/02/2024
+
+Data dessa solicitação: 09/11/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 120,0% do CDI
+
+Valor da aplicação: R$ 2.378,55
+
+Quantidade de unidades: 2355
+
+IR: 22,5% de IR
+
+Emissor: MERCADO LIVRE CFI
+
+Vencimento do título: 15/01/2024
+
+Data dessa solicitação: 27/11/2023
+
+Título: LCI - LCI - Letra Crédito Imobiliário
+
+Rentabilidade: 92,5% do CDI
+
+Valor da aplicação: R$ 1.000,00
+
+Quantidade de unidades: 1000
+
+IR: Isento de IR
+
+Emissor: BRB BANCO DE BRASILIA
+
+Vencimento do título: 18/05/2024
+
+Data dessa solicitação: 20/12/2023
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 4.101,61
+
+Quantidade de unidades: 4061
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 21/05/2024
+
+Data dessa solicitação: 02/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 1.358,45
+
+Quantidade de unidades: 1345
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 25/06/2024
+
+Data dessa solicitação: 10/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 1.484,70
+
+Quantidade de unidades: 1470
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 08/07/2024
+
+Data dessa solicitação: 16/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 1.177,08
+
+Quantidade de unidades: 1154
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 20/05/2024
+
+Data dessa solicitação: 16/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 1.212,00
+
+Quantidade de unidades: 1200
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 12/11/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 202,00
+
+Quantidade de unidades: 200
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 11/11/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 9.782,82
+
+Quantidade de unidades: 9591
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 25/10/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 102,00
+
+Quantidade de unidades: 100
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 29/10/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 1.414,00
+
+Quantidade de unidades: 1400
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 15/07/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 252,50
+
+Quantidade de unidades: 250
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 19/11/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 101,00
+
+Quantidade de unidades: 100
+
+IR: 20% de IR
+
+Emissor: BANCO GUANABARA
+
+Vencimento do título: 26/11/2024
+
+Data dessa solicitação: 17/01/2024
+
+Título: CDB - CDB - Certificado de Depósito Bancário
+
+Rentabilidade: 125,0% do CDI
+
+Valor da aplicação: R$ 252,50
+
+Quantidade de unidades: 250
+
+IR: 22,5% de IR
+
+Emissor: PAGBANK
+
+Vencimento do título: 12/06/2024
+
+Data dessa solicitação: 17/01/2024
